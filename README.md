@@ -21,7 +21,7 @@ pip install .
 For help with using the consumer please refer to the help. 
 
 ```bash
-consumer-eventhub --help
+eventhub-consume --help
 ```
 
 # Contributing
